@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,linux,database and networks
 - 🌱 I’m currently learning django , database 
 <!-- - 💞️ I’m looking to collaborate on  -->
-- 📫 How to reach me : telegram:t.me/hosseinhj1380
+- 📫 How to reach me : https://t.me/hosseinhj1380
 
 <!---
 hosseinhj1380/hosseinhj1380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
