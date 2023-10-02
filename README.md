@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hosseinhj1380
 - 👀 I’m interested in python,Go,linux,database and networks
-- 🌱 I’m currently learning Go,django , database 
+
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me : https://t.me/hosseinhj1380
 
