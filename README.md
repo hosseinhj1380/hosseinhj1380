@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @hosseinhj1380
-- 👀 I’m interested in python,Go,linux,database and networks
+- 👋 Hi, I’m HosseinJavadi
+- 
+- 👀 I’m interested in python,Go,linux,database and networks and i now working on software engineering
+- i will be happy to have connections with you and collaborate on diffrent projects 
 
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me : https://t.me/hosseinhj1380
